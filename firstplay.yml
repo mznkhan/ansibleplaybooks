@@ -1,2 +1,5 @@
-- name: First Playbook
-  debug: msg="This is my first playbook"
+- hosts: site
+  tasks:
+
+    - name: First Playbook
+      debug: msg="This is my first playbook"
