@@ -1,4 +1,4 @@
-- hosts: site
+- hosts: all
   tasks:
 
     - name: First Playbook
