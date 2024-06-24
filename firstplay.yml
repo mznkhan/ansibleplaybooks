@@ -1,0 +1,2 @@
+- name: First Playbook
+  debug: msg="This is my first playbook"
